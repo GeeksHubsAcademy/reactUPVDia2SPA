@@ -1,0 +1,14 @@
+
+.loginDesign {
+
+    height: 90vh;
+    width: 100vw;
+
+    background-color: darkcyan;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}

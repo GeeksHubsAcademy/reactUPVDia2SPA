@@ -1,0 +1,14 @@
+
+.headerDesign {
+
+    height: 10vh;
+    width: 100vw;
+
+    background-color: maroon;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
