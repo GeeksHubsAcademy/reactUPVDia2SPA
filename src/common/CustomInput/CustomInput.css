@@ -1,0 +1,20 @@
+
+.normalDesign {
+
+    border-radius: 1em;
+    width: 18em;
+    height: 2.5em;
+
+    margin-bottom: 2em;
+
+}
+
+.errorDesign {
+
+    border-radius: 1em;
+    width: 18em;
+    height: 2.5em;
+
+    margin-bottom: 2em;
+    border: 0.2em solid red;
+}
