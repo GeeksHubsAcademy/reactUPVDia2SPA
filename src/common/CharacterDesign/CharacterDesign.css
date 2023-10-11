@@ -1,0 +1,19 @@
+
+.characterDesignCard {
+
+    height: 10em;
+    width: 8em;
+
+    background-color: lightsteelblue;
+    border-radius: 1em;
+
+    margin: 1em;
+}
+
+.avatarDesign {
+
+    width: 7em;
+    height: 8em;
+
+    border-radius: 1em;
+}
